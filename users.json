@@ -7,6 +7,13 @@
    "salt": "qiau3Yi5pkWl+DYV0oFkgw==",
    "iv": "FVSGnVHhIa612ODH",
    "ct": "1kn3w1KUnOtuP4hYnM8Hf5jlRqe+w/yJR0mSw2aPoAGbXO0a7BhUoywsqZ1pzCVCj0W7zM8kOnUoXaFggl5PAJw7FjVKy0oiO1jyplTPRHhZnctTshyrmf8E6kwGBZ44gybfkKY3Xjxnt5QBQg=="
+  },
+  {
+   "u": "Viewer",
+   "r": "viewer",
+   "salt": "rEVui1+AMHGVDx/Wa8ulnA==",
+   "iv": "53dRpJwgVPeeHtyU",
+   "ct": "3EynwM18u8pOfE8VUZCI70cEUTXe9d/t4wNS8/cFIez4lllygbPzq/pneF19fAC+343+gWKltggGPlG0TIeSznwOqCSlxma8qFPJKJtD9C42FvFmEQ+Vbg5vbqNsXiskDRiZ72UDXmjr4/hMHw=="
   }
  ]
 }
