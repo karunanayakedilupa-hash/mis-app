@@ -1,5 +1,5 @@
 /* ===== Configuration (edit here) ===== */
-const CFG={demoUser:'demo',demoPass:'demo123',name:'Machinery Information System',tag:'Engineering & Maintenance Digitalization',contact:'your.email@example.com',owner:'',siteRepo:'',dataRepo:'',branch:'main',apiBase:'https://api.github.com',usersUrl:'users.json'};
+const CFG={demoUser:'demo',demoPass:'demo123',name:'Machinery Information System',tag:'Engineering & Maintenance Digitalization',contact:'karunanayakedilupa@gmail.com',owner:'',siteRepo:'',dataRepo:'',branch:'main',apiBase:'https://api.github.com',usersUrl:'users.json'};
 Object.assign(CFG,window.MIS_CONFIG||{}); /* repository names come from config.js */
 
 /* ===== Helpers ===== */
